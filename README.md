@@ -8,4 +8,4 @@ Links to my various build scripts for macOS.<br>If a link doesn't work, it likel
 - 
 
 ## Format Conversion
-- 
+- [To CHD from ISO or BIN/CUE](https://github.com/shinra-electric/Conversion-Scripts)
