@@ -1,4 +1,4 @@
-# Build-scripts
+# Build Scripts
 Links to my various build scripts for macOS.<br>If a link doesn't work, it likely means I'm keeping that repo private.
 
 ## Emulators
@@ -7,7 +7,7 @@ Links to my various build scripts for macOS.<br>If a link doesn't work, it likel
 ## Games
 - [Source Engine games](https://github.com/shinra-electric/Source-Engine-Build-Script)
 - [GTA III and Vice City](https://github.com/shinra-electric/GTA-Build-Script)
-- [Super Metroid]()
+- [Super Metroid](https://github.com/shinra-electric/Super-Metroid)
 - [Super Mario]() including Super Mario World, Super Mario Bros (snes remake) and The Lost Levels
 - [Super Mario 64]()
 - [Prince of Persia]()
