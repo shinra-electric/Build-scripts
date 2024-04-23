@@ -5,7 +5,7 @@ Links to my various build scripts for macOS.<br>If a link doesn't work, it likel
 - [RPCS3 for Arm](https://github.com/shinra-electric/Arm-Build-Script-for-RPCS3)
 
 ## Games
-- [Source Engine games]()
+- [Source Engine games](https://github.com/shinra-electric/Source-Engine-Build-Script)
 - [GTA III and Vice City](https://github.com/shinra-electric/Build-Scripts-Private)
 - [Super Metroid]()
 - [Super Mario]() including Super Mario World, Super Mario Bros (snes remake) and The Lost Levels
