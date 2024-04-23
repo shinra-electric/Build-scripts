@@ -12,7 +12,7 @@ Links to my various build scripts for macOS.<br>If a link doesn't work, it likel
 - [Super Mario 64]()
 - [Prince of Persia]()
 - [OpenXray]() S.T.A.L.K.E.R Call of Pripyat
-- [Stratagus]() Warcraft, Warcraft 2 and Starcraft
+- [Stratagus](https://github.com/shinra-electric/Stratagus-Build-Script) Warcraft, Warcraft 2 and Starcraft
 - [Zelda]() A Link to the Past
 
 ## Format Conversion
