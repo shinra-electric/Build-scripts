@@ -6,7 +6,7 @@ Links to my various build scripts for macOS.<br>If a link doesn't work, it likel
 
 ## Games
 - [Source Engine games](https://github.com/shinra-electric/Source-Engine-Build-Script)
-- [GTA III and Vice City](https://github.com/shinra-electric/Build-Scripts-Private)
+- [GTA III and Vice City](https://github.com/shinra-electric/GTA-Build-Script)
 - [Super Metroid]()
 - [Super Mario]() including Super Mario World, Super Mario Bros (snes remake) and The Lost Levels
 - [Super Mario 64]()
