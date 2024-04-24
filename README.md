@@ -13,7 +13,7 @@ Links to my various build scripts for macOS.<br>If a link doesn't work, it likel
 - [Prince of Persia](https://github.com/shinra-electric/SDLPoP-Build-Script) DOS version
 - [OpenXray](https://github.com/shinra-electric/OpenXRay-Build-Script) S.T.A.L.K.E.R Call of Pripyat
 - [Stratagus](https://github.com/shinra-electric/Stratagus-Build-Script) Warcraft, Warcraft 2 and Starcraft
-- [Zelda]() A Link to the Past
+- [Zelda](https://github.com/shinra-electric/Zelda3-Build-Script) A Link to the Past
 
 ## Format Conversion
 - [To CHD from ISO or BIN/CUE](https://github.com/shinra-electric/Conversion-Scripts)
