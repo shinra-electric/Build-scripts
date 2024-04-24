@@ -11,7 +11,7 @@ Links to my various build scripts for macOS.<br>If a link doesn't work, it likel
 - [Super Mario]() including Super Mario World, Super Mario Bros (snes remake) and The Lost Levels
 - [Super Mario 64]()
 - [Prince of Persia]()
-- [OpenXray]() S.T.A.L.K.E.R Call of Pripyat
+- [OpenXray](https://github.com/shinra-electric/OpenXRay-Build-Script) S.T.A.L.K.E.R Call of Pripyat
 - [Stratagus](https://github.com/shinra-electric/Stratagus-Build-Script) Warcraft, Warcraft 2 and Starcraft
 - [Zelda]() A Link to the Past
 
