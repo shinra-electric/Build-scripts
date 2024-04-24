@@ -10,7 +10,7 @@ Links to my various build scripts for macOS.<br>If a link doesn't work, it likel
 - [Super Metroid](https://github.com/shinra-electric/Super-Metroid)
 - [Super Mario]() including Super Mario World, Super Mario Bros (snes remake) and The Lost Levels
 - [Super Mario 64]()
-- [Prince of Persia]()
+- [Prince of Persia](https://github.com/shinra-electric/SDLPoP-Build-Script) DOS version
 - [OpenXray](https://github.com/shinra-electric/OpenXRay-Build-Script) S.T.A.L.K.E.R Call of Pripyat
 - [Stratagus](https://github.com/shinra-electric/Stratagus-Build-Script) Warcraft, Warcraft 2 and Starcraft
 - [Zelda]() A Link to the Past
