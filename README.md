@@ -6,6 +6,7 @@ Links to my various build scripts for macOS.<br>If a link doesn't work, it likel
 
 ## Games
 - [GTA III and Vice City](https://github.com/shinra-electric/GTA-Build-Script)
+- [OpenDune](https://github.com/OpenDUNE/OpenDUNE) Dune II: The Building of a Dynasty
 - [OpenXray](https://github.com/shinra-electric/OpenXRay-Build-Script) S.T.A.L.K.E.R Call of Pripyat
 - [Prince of Persia](https://github.com/shinra-electric/SDLPoP-Build-Script) DOS version
 - [Quake](https://github.com/shinra-electric/vkMacQuake-Build-Script) and Arcane Dimensions
