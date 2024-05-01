@@ -5,9 +5,9 @@ Links to my various build scripts for macOS.<br>If a link doesn't work, it likel
 - [RPCS3 for Arm](https://github.com/shinra-electric/RPCS3-Arm-Build-Script)
 
 ## Games
-- [re3 and reVC](https://github.com/shinra-electric/GTA-Build-Script) GTA III and Vice City
 - [OpenDune](https://github.com/OpenDUNE/OpenDUNE) Dune II: The Building of a Dynasty
 - [OpenXray](https://github.com/shinra-electric/OpenXRay-Build-Script) S.T.A.L.K.E.R Call of Pripyat
+- [re3 and reVC](https://github.com/shinra-electric/GTA-Build-Script) GTA III and Vice City
 - [SDLPoP](https://github.com/shinra-electric/SDLPoP-Build-Script) Prince of Persia (DOS version)
 - [vkMacQuake](https://github.com/shinra-electric/vkMacQuake-Build-Script) Quake and Arcane Dimensions
 - [Source Engine games](https://github.com/shinra-electric/Source-Engine-Build-Script)
