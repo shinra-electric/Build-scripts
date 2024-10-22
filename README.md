@@ -11,6 +11,7 @@ Links to my various build scripts for macOS.<br>If a link doesn't work, it likel
 - [SDLPoP](https://github.com/shinra-electric/SDLPoP-Build-Script) Prince of Persia (DOS version)
 - [vkMacQuake](https://github.com/shinra-electric/vkMacQuake-Build-Script) Quake and Arcane Dimensions
 - [Source Engine games](https://github.com/shinra-electric/Source-Engine-Build-Script)
+- [StarCraft](https://github.com/shinra-electric/StarCraft-Offline-Patch) Offline patch for the official version
 - [Stratagus](https://github.com/shinra-electric/Stratagus-Build-Script) Warcraft, Warcraft 2 and Starcraft
 - [Super Mario](https://github.com/shinra-electric/Mario-Build-Script) including Super Mario World, Super Mario Bros (SNES remake) and The Lost Levels
 - [Super Mario 64](https://github.com/shinra-electric/Mario64-Build-Script)
