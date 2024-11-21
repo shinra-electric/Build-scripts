@@ -10,6 +10,7 @@ Links to my various build scripts for macOS.<br>If a link doesn't work, it likel
 - [re3 and reVC](https://github.com/shinra-electric/GTA-Build-Script) GTA III and Vice City
 - [SDLPoP](https://github.com/shinra-electric/SDLPoP-Build-Script) Prince of Persia (DOS version)
 - [vkMacQuake](https://github.com/shinra-electric/vkMacQuake-Build-Script) Quake and Arcane Dimensions
+- [Perfect Dark](https://github.com/shinra-electric/Perfect-Dark-Build-Script) (N64)
 - [Source Engine games](https://github.com/shinra-electric/Source-Engine-Build-Script)
 - [StarCraft](https://github.com/shinra-electric/StarCraft-Offline-Patch) Standalone patch for the official version
 - [Stratagus](https://github.com/shinra-electric/Stratagus-Build-Script) Warcraft, Warcraft 2 and Starcraft
