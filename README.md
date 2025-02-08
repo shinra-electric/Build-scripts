@@ -11,16 +11,16 @@ Links to my various scripts for macOS.<br>Unless otherwise stated, they will com
 - [SDLPoP](https://github.com/shinra-electric/SDLPoP-Build-Script) Prince of Persia (DOS version)
 - [vkMacQuake](https://github.com/shinra-electric/vkMacQuake-Build-Script) Quake and Arcane Dimensions
 - [Medal of Honor](https://github.com/shinra-electric/Medal-Of-Honor-Build-Script) Allied Assault, Spearhead & Breakthrough
-- [Perfect Dark](https://github.com/shinra-electric/Perfect-Dark-Build-Script) (N64)
-- [Source Engine games](https://github.com/shinra-electric/Source-Engine-Build-Script)
-- [StarCraft](https://github.com/shinra-electric/StarCraft-Offline-Patch) Standalone patch for the official version
-- [Stratagus](https://github.com/shinra-electric/Stratagus-Build-Script) Warcraft, Warcraft 2 and Starcraft
-- [Super Mario](https://github.com/shinra-electric/Mario-Build-Script) including Super Mario World, Super Mario Bros (SNES remake) and The Lost Levels
-- [Super Mario 64](https://github.com/shinra-electric/Mario64-Build-Script)
-- [Super Metroid](https://github.com/shinra-electric/Super-Metroid)
-- [Unreal & Unreal Tournament '99](https://github.com/shinra-electric/Unreal-Data-Extractor) Game data extractor
-- [WipEout-Rewrite](https://github.com/shinra-electric/WipEout-Rewrite-Build-Script) WipEout
-- [Zelda](https://github.com/shinra-electric/Zelda3-Build-Script) A Link to the Past
+- [Perfect Dark](https://github.com/shinra-electric/Perfect-Dark-Build-Script) (N64 version)
+- [Source Engine games](https://github.com/shinra-electric/Source-Engine-Build-Script) Half-Life Source, Half-Life 2, Half-Life Episodes 1 & 2, Portal
+- [Stratagus](https://github.com/shinra-electric/Stratagus-Build-Script) Warcraft and Warcraft 2
+- [Super Mario](https://github.com/shinra-electric/Mario-Build-Script) including Super Mario World, Super Mario Bros (SNES remake) and The Lost Levels (SNES)
+- [Super Mario 64](https://github.com/shinra-electric/Mario64-Build-Script) (N64 version)
+- [Super Metroid](https://github.com/shinra-electric/Super-Metroid) (SNES version)
+- [WipEout-Rewrite](https://github.com/shinra-electric/WipEout-Rewrite-Build-Script) WipEout (PS1 version)
+- [Zelda](https://github.com/shinra-electric/Zelda3-Build-Script) A Link to the Past (SNES version)
 
-## Format Conversion Tools
-- [To CHD from ISO or BIN/CUE](https://github.com/shinra-electric/Conversion-Scripts)
+## Tools
+- [StarCraft](https://github.com/shinra-electric/StarCraft-Offline-Patch) Standalone patch for the official version. Removes requirement for a Launcher or Battle.Net
+- [Unreal & Unreal Tournament '99](https://github.com/shinra-electric/Unreal-Data-Extractor) Game data extractor
+- [Format conversion: To CHD from ISO or BIN/CUE](https://github.com/shinra-electric/Conversion-Scripts)
