@@ -1,5 +1,5 @@
 # Build Scripts
-Links to my various scripts for macOS.<br>Most of them will compile an app or game from source for Arm Macs, and create an app bundle.<br><br>If a link doesn't work, it means I have that repo private. 
+Links to my various scripts for macOS.<br>Unless otherwise stated, they will compile an app or game from source for Arm Macs, and create an app bundle.<br><br>If a link doesn't work, it means I have that repo private. 
 
 ## Emulators
 - [RPCS3 for Arm](https://github.com/shinra-electric/RPCS3-Arm-Build-Script)
