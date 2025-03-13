@@ -1,5 +1,5 @@
-# Build Scripts
-Links to my various scripts for macOS.<br>Unless otherwise stated, they will compile an app or game from source for Arm Macs, and create an app bundle.<br><br>If a link doesn't work, it means I have that repo private. 
+# Shell Scripts
+Links to my various scripts for macOS.<br><br>If a link doesn't work, it means I have that repo private. 
 
 ## Emulators
 - [RPCS3 for Arm](https://github.com/shinra-electric/RPCS3-Arm-Build-Script)
@@ -23,4 +23,5 @@ Links to my various scripts for macOS.<br>Unless otherwise stated, they will com
 ## Tools
 - [StarCraft](https://github.com/shinra-electric/StarCraft-Offline-Patch) Standalone patch for the official version. Removes requirement for a Launcher or Battle.Net
 - [Unreal & Unreal Tournament '99](https://github.com/shinra-electric/Unreal-Data-Extractor) Game data extractor
+- [Warcraft 1 & 2](https://github.com/shinra-electric/Stratagus-Data-Extractor-Script) Game data extractor
 - [Format conversion: To CHD from ISO or BIN/CUE](https://github.com/shinra-electric/Conversion-Scripts)
