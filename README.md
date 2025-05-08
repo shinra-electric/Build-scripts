@@ -25,4 +25,4 @@ Links to my various scripts for macOS.<br><br>If a link doesn't work, it means I
 - [StarCraft](https://github.com/shinra-electric/StarCraft-Offline-Patch) Standalone patch for the official version. Removes requirement for a Launcher or Battle.Net
 - [Unreal & Unreal Tournament '99](https://github.com/shinra-electric/Unreal-Data-Extractor) Game data extractor
 - [Warcraft 1 & 2](https://github.com/shinra-electric/Stratagus-Data-Extractor-Script) Game data extractor
-- [Format conversion: To CHD/CSO from ISO or BIN/CUE](https://github.com/shinra-electric/Conversion-Scripts)
+- [Format conversion](https://github.com/shinra-electric/Conversion-Scripts) To CHD/CSO from ISO or BIN/CUE
