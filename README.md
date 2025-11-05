@@ -4,6 +4,7 @@ Links to my various scripts for macOS.<br><br>If a link doesn't work, it means I
 ## Emulators
 - [RPCS3 for Arm](https://github.com/shinra-electric/RPCS3-Arm-Build-Script)
 - [shadPS4](https://github.com/shinra-electric/shadPS4-Build-Script)
+- [Hydra](https://github.com/shinra-electric/Hydra-Build-Script)
 
 ## Games
 - [OpenDune](https://github.com/shinra-electric/OpenDune-Build-Script) Dune II: The Building of a Dynasty
