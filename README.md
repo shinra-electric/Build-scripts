@@ -1,5 +1,8 @@
 # Shell Scripts
-Links to my various scripts for macOS.<br><br>If a link doesn't work, it means I have that repo private. 
+Links to my various Zsh scripts for macOS.<br>
+<br>
+>[!NOTE]
+>If a link doesn't work, it means I have that repo private.
 
 ## Emulators
 - [RPCS3 for Arm](https://github.com/shinra-electric/RPCS3-Arm-Build-Script)
