@@ -1,4 +1,7 @@
 # Shell Scripts
+
+<img src="assets/terminal.png" width="200" align="right" />
+
 Links to my various Zsh scripts for macOS.<br>
 <br>
 >[!NOTE]
