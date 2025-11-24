@@ -27,6 +27,7 @@ Links to my various Zsh scripts for macOS.<br>
 - [Super Metroid](https://github.com/shinra-electric/Super-Metroid) (SNES version)
 - [WipEout-Rewrite](https://github.com/shinra-electric/WipEout-Rewrite-Build-Script) WipEout (PS1 version)
 - [Zelda](https://github.com/shinra-electric/Zelda3-Build-Script) A Link to the Past (SNES version)
+- [REminiscence](https://github.com/shinra-electric/REminiscence-build-script) Flashback
 
 ## Tools
 - [StarCraft](https://github.com/shinra-electric/StarCraft-Offline-Patch) Standalone patch for the official version. Removes requirement for a Launcher or Battle.Net
