@@ -20,6 +20,7 @@ Links to my various Zsh scripts for macOS.<br>
 - [vkMacQuake](https://github.com/shinra-electric/vkMacQuake-Build-Script) Quake and Arcane Dimensions
 - [Medal of Honor](https://github.com/shinra-electric/Medal-Of-Honor-Build-Script) Allied Assault, Spearhead & Breakthrough
 - [Perfect Dark](https://github.com/shinra-electric/Perfect-Dark-Build-Script) (N64 version)
+- [REminiscence](https://github.com/shinra-electric/REminiscence-build-script) Flashback
 - [Source Engine games](https://github.com/shinra-electric/Source-Engine-Build-Script) Half-Life Source, Half-Life 2, Half-Life Episodes 1 & 2, Portal
 - [Stratagus](https://github.com/shinra-electric/Stratagus-Build-Script) Warcraft and Warcraft 2
 - [Super Mario](https://github.com/shinra-electric/Mario-Build-Script) including Super Mario World, Super Mario Bros (SNES remake) and The Lost Levels (SNES)
@@ -27,7 +28,6 @@ Links to my various Zsh scripts for macOS.<br>
 - [Super Metroid](https://github.com/shinra-electric/Super-Metroid) (SNES version)
 - [WipEout-Rewrite](https://github.com/shinra-electric/WipEout-Rewrite-Build-Script) WipEout (PS1 version)
 - [Zelda](https://github.com/shinra-electric/Zelda3-Build-Script) A Link to the Past (SNES version)
-- [REminiscence](https://github.com/shinra-electric/REminiscence-build-script) Flashback
 
 ## Tools
 - [StarCraft](https://github.com/shinra-electric/StarCraft-Offline-Patch) Standalone patch for the official version. Removes requirement for a Launcher or Battle.Net
