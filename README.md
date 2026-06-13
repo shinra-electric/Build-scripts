@@ -36,4 +36,3 @@ Links to my various Zsh scripts for macOS.<br>
 - [Format conversion](https://github.com/shinra-electric/Conversion-Scripts) To CHD/CSO from ISO or BIN/CUE
 - [PS3 ISO Tools](https://github.com/shinra-electric/ps3iso-utils) Arm builds of the PS3 ISO command-line tools
 - [pkg-merge](https://github.com/shinra-electric/pkg-merge) Universal binary build of pkg-merge
-- [Netcat-GUI](https://github.com/shinra-electric/netcatgui) Arm build of Netcat-GUI for macOS
